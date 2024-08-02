@@ -40,7 +40,7 @@
   <distributionManagement>
  <!-- Publish the versioned releases here -->
  
-  <repository>
+<repository>
 <id>package</id>
 <url>
 http://3.110.56.27:8081/repository/package/
